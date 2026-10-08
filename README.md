@@ -1,6 +1,6 @@
 # Move Smart
 
-**How to use AI on a decision that matters, without giving up your judgment.**
+**How to use AI on a decision that matters, without giving up judgment.**
 
 It's easy to ask AI a question. It's harder to know when to trust the answer. Move Smart is my attempt to figure that out, using a real decision as the test.
 
