@@ -48,7 +48,7 @@ I wanted to practice three skills in one project:
 
 🚧 **In progress.** Started October 2026.
 
-- [ ] Problem statement and safety rules
+- [x] Problem statement and safety rules
 - [ ] Playbook draft
 - [ ] Dashboard build
 - [ ] Real-world test and log
