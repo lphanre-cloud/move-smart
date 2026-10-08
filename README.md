@@ -26,7 +26,7 @@ I wanted to practice three skills in one project:
 | --- | --- |
 | `playbook/` | The six-part guide, with worksheets and checklists |
 | `dashboard/` | The interactive city comparison, the public data behind it, and where that data came from |
-| `test-log/` | A candid record of what AI helped with, what it got wrong, and what I double-checked myself |
+| `test-log/` | A record of what Claudenhas helped with, what it got wrong, and what I double-checked myself |
 
 ## The playbook in six steps
 
