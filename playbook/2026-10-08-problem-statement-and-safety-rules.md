@@ -27,7 +27,7 @@ Choosing a new city and planning a move means juggling a lot at once: comparing 
 
 | What | Why it needs a second look | How to check it |
 | --- | --- | --- |
-| **Neighborhood and safety claims** | AI can repeat outdated information or stereotypes about an area, and safety is too important to take on faith | Official local crime data, city and police department resources, recent local news, and visiting in person |
+| **Neighborhood and safety claims** | AI can repeat outdated information or stereotypes about an area, and safety is too important to take a guess on | Official local crime data, city and police department resources, recent local news, and visiting in person |
 | **Rent and cost figures** | Prices change quickly, and AI may be working from old data | Current listings, quotes, and official sources, with the date noted |
 | **Numbers, dates, and rules** | AI can state things confidently that turn out to be wrong | The original source, such as a government site or the company itself |
 | **Anything that sounds too neat** | A clean, confident answer can hide missing details | Ask for sources, then read them |
