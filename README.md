@@ -1,6 +1,6 @@
 # Move Smart
 
-**How to use AI on a decision that really matters, without giving up your judgment.**
+**How to use AI on a decision that matters, without giving up your judgment.**
 
 It's easy to ask AI a question. It's harder to know when to trust the answer. Move Smart is my attempt to figure that out, using a real decision as the test.
 
@@ -8,7 +8,7 @@ It's easy to ask AI a question. It's harder to know when to trust the answer. Mo
 
 Two tools, one real-world test.
 
-1. **The Playbook:** a short, plain-English guide for trying AI safely. It walks through choosing the right task, setting safety rules, running a small pilot, measuring what happens, and deciding what to do next.
+1. **The Playbook:** a short, plain-English guide for using AI safely. It walks through choosing the right task, setting safety rules, running a small pilot, measuring what happens, and deciding what to do next.
 2. **The City Dashboard:** an interactive tool that compares cities using public data, so a big decision rests on clear criteria instead of a gut feeling.
 3. **The Test:** I'm using both to plan a real cross-country move, and keeping an honest record of how it goes.
 
@@ -56,4 +56,5 @@ I wanted to practice three skills in one project:
 
 ## About
 
-Built by Linh, with AI as a working partner. Questions and feedback are welcome.
+Built by Linh Phan, with Claude as a working partner. 
+Questions and feedback are welcome.
