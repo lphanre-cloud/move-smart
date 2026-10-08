@@ -1,6 +1,6 @@
 # Problem Statement and Safety Rules
 
-*Phase 1 of the Move Smart playbook. Draft for review.*
+*Phase 1 of the Move Smart playbook.*
 
 ## The problem
 
